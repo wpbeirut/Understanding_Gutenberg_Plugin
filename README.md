@@ -3,6 +3,10 @@ Gutenberg is a fresh new take on editing content on the web.
 It works well at diferent screen sizes and provides end users with a better WYSIWYG editing experience. 
 You now have the tools and understanding to take on this brave new world!
 
+==============================================================
+will provide an explination video step by step the soonest.
+==============================================================
+
 This project was bootstrapped with [Create Guten Block](https://github.com/ahmadawais/create-guten-block).
 
 Below you will find some information on how to run scripts.
