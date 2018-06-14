@@ -29,7 +29,7 @@ const { RichText } = wp.editor;
  */
 registerBlockType( 'wpbeirut/block-bootstrap-alert', {
 	// Block name. Block names must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
-	title: __( 'Bootstrap Alert' ), // Block title.
+	title: __( 'WpBeirut Alert' ), // Block title.
 	icon: 'warning', // Block icon from Dashicons → https://developer.wordpress.org/resource/dashicons/.
 	category: 'common', // Block category — Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.
 	keywords: [

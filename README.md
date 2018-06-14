@@ -3,9 +3,19 @@ Gutenberg is a fresh new take on editing content on the web.
 It works well at diferent screen sizes and provides end users with a better WYSIWYG editing experience. 
 You now have the tools and understanding to take on this brave new world!
 
-==============================================================
 will provide an explination video step by step the soonest.
-==============================================================
+
+---
+prequisets:
+need the latest node js 8 version.
+
+The plugin need to be cloned to the plugin folder located at wp-content/plugins
+after cloning the repository you need to write npm install.
+npm start to watch and compile 
+
+You can find the Gutenberg block after activating the plugin named wpbeirut alert.
+
+---
 
 This project was bootstrapped with [Create Guten Block](https://github.com/ahmadawais/create-guten-block).
 
